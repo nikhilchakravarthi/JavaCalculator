@@ -2,7 +2,7 @@ package com.ravi.cal.RaviCalculator;
 
 public class Calculator {
 
-	private long first;
+	rivate long first;
 	private long second;
 	
 	public Calculator(long first, long second){
